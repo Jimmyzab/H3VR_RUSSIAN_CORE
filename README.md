@@ -7,7 +7,6 @@ H3VR — базовый русский перевод (меню + спавнер
 - H3VR_Russian_Core.txt — ~410 строк перевода (меню, настройки, спавнер)
 - XUnity Auto Translator 4.21.0 — движок перевода (полная установка)
 - AutoTranslatorConfig.ini — уже настроен на Language=ru
-- Пустые _Substitutions.txt / _Preprocessors.txt / _Postprocessors.txt
 
 ❌НЕ ПЕРЕВЕДЕНО (намеренно):
 - названия конкретного оружия (Glock, AK и т.д.)
